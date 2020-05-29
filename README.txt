@@ -1,1 +1,1 @@
-GRE stuff.
+This folder contains GRE stuff.
